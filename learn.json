@@ -8,7 +8,7 @@
         "us": "Learn how to create a simulated network environment that includes a Demilitarized Zone, configure firewalls, gateways, and network detection systems, and ensure network security.",
         "es": "Aprende a crear un entorno de red simulado que incluya una Zona Desmilitarizada, configura firewalls, gateways y sistemas de detección de red, y garantiza la seguridad de la red."
     },
-    "preview": "https://github.com/breatheco-de/Building-and-Securing-a-Network-with-a-DMZ/raw/main/assets/preview.jpg?raw=true",
+    "preview": "https://github.com/breatheco-de/Building-and-Securing-a-Network-with-a-DMZ/blob/main/assets/preview.jpg?raw=true",
     "repository": "https://github.com/breatheco-de/Building-and-Securing-a-Network-with-a-DMZ",
     "duration": 4,
     "difficulty": "intermediate",
