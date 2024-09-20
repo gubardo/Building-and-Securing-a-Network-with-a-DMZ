@@ -1,7 +1,7 @@
 <!-- hide -->
 # Building and Securing a Network with a DMZ**
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/commands-for-remote-hacking/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@vanemorocho](https://github.com/vanemorocho) and [other contributors](https://github.com/breatheco-de/commands-for-remote-hacking/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/main/README.es.md) :es:*
 <!-- endhide -->
@@ -73,7 +73,7 @@ Once you've finished the Packet Tracer instruction steps, please save your chang
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Arnaldo Perez (arnaloperez)](https://github.com/arnaloperez) contribution: (build-tutorial) ✅, (documentation) 📖
+1. [Vanessa Morocho (vanemorocho)](https://github.com/vanemorocho) contribution: (build-tutorial) ✅, (documentation) 📖
   
 2. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr),  contribution: (bug reports) 🐛
 
