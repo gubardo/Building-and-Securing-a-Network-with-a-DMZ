@@ -10,17 +10,6 @@
 
 [Download here](https://github.com/breatheco-de/Building-and-Securing-a-Network-with-a-DMZ/raw/main/assets/ProjectDMZ.pka) the file and open it with Packet Tracer.
 
-<!-- hide -->
-## Before you begin... something related with these tutorials:
-
-> We need you! These exercises are built and maintained by contributions from people like you. If you find any bugs or spelling errors, please report them.
-
-<!-- endhide -->
-
-## 🌱 How to start this project?
-
-[Download here](https://github.com/4GeeksAcademy/network-troubleshooting/raw/master/assets/network-troubleshooting.pka) the file and open it with Packet Tracer.
-
 Once you have opened the file with Packet Tracer you will see the floating window with the instructions to follow.
 
 ## 📝 Instructions
